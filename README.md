@@ -1,7 +1,6 @@
 ##Informations importantes à retenir pour démo npm
 
 * Si le dépôt git est spécifié dans la balise `repository`, alors le package sera publié automatiquement dans les packages du repo
-* On peut aussi configurer le publishConfig. On doit le faire soit dans le package.json, mais on peut aussi le faire dans le workflow.
 
 
 ##Documentation
