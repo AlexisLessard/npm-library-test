@@ -1,5 +1,5 @@
 {
-  "name": "hwrld-alexis",
+  "name": "@alexislessard/npm-library-test",
   "version": "1.0.0",
   "description": "Test de librairie hello-word",
   "main": "dist/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexisLessard/npm-library-test.git"
+    "url": "https://github.com/AlexisLessard/npm-library-test.git"
   },
   "author": "AlexisLessard",
   "license": "ISC",
