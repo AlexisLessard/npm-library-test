@@ -1,5 +1,5 @@
 {
-  "name": "@alexislessard/npm-library-test",
+  "name": "@alexislessard/hello-world-ts",
   "version": "1.0.0",
   "description": "Test de librairie hello-word",
   "main": "dist/index.js",
