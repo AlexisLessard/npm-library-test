@@ -1,0 +1,20 @@
+{
+  "name": "hwrld-alexis",
+  "version": "1.0.0",
+  "description": "Test de librairie hello-word",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexisLessard/npm-library-test.git"
+  },
+  "author": "AlexisLessard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexisLessard/npm-library-test/issues"
+  },
+  "homepage": "https://github.com/AlexisLessard/npm-library-test#readme"
+}
